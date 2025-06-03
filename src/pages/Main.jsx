@@ -29,10 +29,10 @@ const Main = () => {
             <section className="mb-8">
                <h2 className="text-3xl font-semibold mb-2">👨‍💻 About Me</h2>
                <p className="text-lg leading-relaxed">
-                  My name is Mazur, and I'm passionate about programming,
-                  design, and building web applications. I enjoy experimenting
-                  with new technologies and contributing to open-source
-                  projects. Check out my work on{' '}
+                  My name is Vlad Mazurenko, and I'm passionate about
+                  programming, design, and building web applications. I enjoy
+                  experimenting with new technologies and contributing to
+                  open-source projects. Check out my work on{' '}
                   <a
                      href="https://github.com/Mazurofficial"
                      target="_blank"
